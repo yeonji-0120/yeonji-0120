@@ -32,9 +32,9 @@
 <table>
   <thead align="center">
     <tr>
-      <th>프로젝트명</th>
-      <th>요약</th>
-      <th>기간</th>
+      <th>TITLE</th>
+      <th>SUBJECT</th>
+      <th>PERIOD</th>
     </tr>
   </thead>
   <tbody>
